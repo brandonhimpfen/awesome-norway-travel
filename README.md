@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Norway, covering official tourism boards, scenic railway routes, coastal ferries, fjords, and outdoor safety networks.
 
+Norway is a dramatic Nordic destination renowned for its deep glacial fjords, towering mountain ranges, Arctic wilderness, and midnight sun or northern lights phenomena. This list is intended for outdoor explorers, alpine hikers, coastal cruise travelers, and nature enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
