@@ -10,6 +10,8 @@
 
 Norway is a dramatic Nordic destination renowned for its deep glacial fjords, towering mountain ranges, Arctic wilderness, and midnight sun or northern lights phenomena. This list is intended for outdoor explorers, alpine hikers, coastal cruise travelers, and nature enthusiasts.
 
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
+
 ## Contents
 
 - [Official & Planning](#official--planning)
@@ -114,7 +116,9 @@ Practical advice on emergency hotlines, mountain rescue, and road safety conditi
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
